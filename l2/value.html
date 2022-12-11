@@ -14,11 +14,16 @@
         document.querySelector("#id_h1").style.background =
           document.querySelector("#id_input").value;
       }
+
+      function changeFontColor() {
+        document.querySelector("#id_h1").style.color =
+          document.querySelector("#id_select").value;
+      }
     </script>
   </head>
   <body onload="init()">
     <h1 id="id_h1">Enter your favorite Color:</h1>
-    <input id="id_input" type="text" />
+    <input id="id_input" type="text" oninput="changeBgColor()" />
     <button onclick="changeBgColor()">Change color</button>
   </body>
 </html>
