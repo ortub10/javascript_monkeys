@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script>
-      function init() {}
+      function init() {
+        changeFontColor();
+      }
 
       function changeBgColor() {
         document.querySelector("#id_h1").innerHTML =
@@ -25,5 +27,11 @@
     <h1 id="id_h1">Enter your favorite Color:</h1>
     <input id="id_input" type="text" oninput="changeBgColor()" />
     <button onclick="changeBgColor()">Change color</button>
+    <h2>Choose font color</h2>
+    <select name="" id="id_select" onchange="changeFontColor()">
+      <option value="red">אדום</option>
+      <option value="blue">כחול</option>
+      <option value="green">ירוק</option>
+    </select>
   </body>
 </html>
