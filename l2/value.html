@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function init() {}
+
+      function changeBgColor() {
+        document.querySelector("#id_h1").innerHTML =
+          document.querySelector("#id_input").value;
+        document.querySelector("#id_h1").style.background =
+          document.querySelector("#id_input").value;
+      }
+    </script>
+  </head>
+  <body onload="init()">
+    <h1 id="id_h1">Enter your favorite Color:</h1>
+    <input id="id_input" type="text" />
+    <button onclick="changeBgColor()">Change color</button>
+  </body>
+</html>
