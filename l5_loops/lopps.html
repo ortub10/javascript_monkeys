@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+        window.onload = function () {
+
+            let i = 0;
+            while (i < 5) {
+                document.body.innerHTML += "Hello,";
+                i++;
+            }
+
+            document.body.innerHTML += "<hr>"
+            for (let j = 0; j < 7; j++) {
+                document.body.innerHTML += (j + 1) * 2 + "-- for<br>";
+            }
+
+            for (let i = 0, j = 100; i < 8; i++, j += 50) {
+                document.body.innerHTML += `<img src = "images/pic${(i + 1)}.jpg" width = "${j}" alt = "pic"><br>`;
+            }
+        };
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
