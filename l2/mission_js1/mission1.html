@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function init() {}
+
+      function changeIsrael() {
+        document.querySelector("#id_img").src = "flags_images/israel.jpg";
+      }
+      function changeUsa() {
+        document.querySelector("#id_img").src = "flags_images/usa.jpg";
+      }
+      function changeBrazil() {
+        document.querySelector("#id_img").src = "flags_images/brazil.jpg";
+      }
+      function changeFrance() {
+        document.querySelector("#id_img").src = "flags_images/france.jpg";
+      }
+      function changeImgWidth() {
+        document.querySelector("#id_img").width =
+          document.querySelector("#id_input").value;
+      }
+    </script>
+  </head>
+  <body onload="init()">
+    <button onclick="changeIsrael()">Israel</button>
+    <button onclick="changeUsa()">Usa</button>
+    <button onclick="changeBrazil()">Brazil</button>
+    <button onclick="changeFrance()">France</button>
+    <h2>Enter img width</h2>
+    <input id="id_input" type="number" value="300" oninput="changeImgWidth()" />
+    <br />
+    <img id="id_img" src="flags_images/israel.jpg" width="300" alt="flag" />
+  </body>
+</html>
