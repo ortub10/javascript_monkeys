@@ -13,4 +13,8 @@ window.onload = function () {
   let temp_arr = fruits_ar.slice(1, 4);
   console.log(temp_arr);
   console.log(abc_ar.length);
+
+  for (let i = 0; i < fruits_ar.length; i++) {
+    document.body.innerHTML += `<button>${fruits_ar[i]}</button>`;
+  }
 };
