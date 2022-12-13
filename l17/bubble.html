@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="bubble.css" />
+    <title>Document</title>
+    <script>
+      window.onload = function () {
+        let id_outside = document.querySelector("#id_outside");
+        let id_middle = document.querySelector("#id_middle");
+        let id_inside = document.querySelector("#id_inside");
+
+        id_outside.addEventListener("click", function () {
+          alert("out green");
+        });
+
+        id_middle.addEventListener(
+          "click",
+          function () {
+            alert("middle gold");
+          },
+          true
+        );
+
+        id_inside.addEventListener("click", function (e) {
+          e.stopPropagation();
+          alert("inside red");
+        });
+      };
+    </script>
+  </head>
+  <body>
+    <div id="id_outside" class="outside_green">
+      <div id="id_middle" class="middle_gold">
+        <div id="id_inside" class="inside_red">click</div>
+      </div>
+    </div>
+  </body>
+</html>
