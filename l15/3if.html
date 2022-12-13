@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function onCheckTemp() {
+        let temp = document.querySelector("#id_input").value;
+        temp > 28 ? changeHot() : changeCold();
+      }
+
+      function changeHot() {
+        document.querySelector("#id_span").innerHTML = "HOT";
+        document.querySelector("#id_span").style.background = "red";
+        document.querySelector("#id_span").style.color = "black";
+      }
+
+      function changeCold() {
+        document.querySelector("#id_span").innerHTML = "COLD";
+        document.querySelector("#id_span").style.background = "blue";
+        document.querySelector("#id_span").style.color = "white";
+      }
+    </script>
+  </head>
+  <body>
+    <h2>Enter the temp in your room:</h2>
+    <input type="number" id="id_input" oninput="onCheckTemp()" />
+    <h2>The condition is <span id="id_span"></span></h2>
+  </body>
+</html>

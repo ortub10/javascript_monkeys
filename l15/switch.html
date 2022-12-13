@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      function onCheckDay() {
+        let day = document.querySelector("#id_input").value;
+        switch (day) {
+          case "1":
+            document.querySelector("#id_span").innerHTML = "ראשון";
+            break;
+          case "2":
+            document.querySelector("#id_span").innerHTML = "שני";
+            break;
+          case "3":
+            document.querySelector("#id_span").innerHTML = "שלישי";
+            break;
+          case "4":
+            document.querySelector("#id_span").innerHTML = "רביעי";
+            break;
+          case "5":
+            document.querySelector("#id_span").innerHTML = "חמישי";
+            break;
+          case "6":
+            document.querySelector("#id_span").innerHTML = "שישי";
+            break;
+          case "7":
+            document.querySelector("#id_span").innerHTML = "שבת";
+            break;
+          default:
+            document.querySelector("#id_span").innerHTML =
+              "press number between 1-7";
+            break;
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <h2>Enter the nuber of the day</h2>
+    <input id="id_input" type="number" oninput="onCheckDay()" />
+    <h2>The name of the day is: <span id="id_span"></span></h2>
+  </body>
+</html>
