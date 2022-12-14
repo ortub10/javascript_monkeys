@@ -12,3 +12,10 @@ Pressing the button subtracts 20 from the score, when the score reaches 0, click
 ![page](https://user-images.githubusercontent.com/102150516/207585674-b2e47f26-8c63-4906-b760-40f84953ac3f.png)
 
 -------------------------------------------------------------------------------------
+### exercise 3:
+
+Login demo, the user must be "Biden" and password must be "123".
+
+![page](https://user-images.githubusercontent.com/102150516/207665490-33de4685-62b5-411e-b0e4-435f0082783b.png)
+
+-------------------------------------------------------------------------------------
