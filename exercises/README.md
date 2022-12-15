@@ -21,7 +21,7 @@ Login demo, the user must be "Biden" and password must be "123".
 -------------------------------------------------------------------------------------
 ### exercise 4:
 
-Hamburger resturant menu, function that add the utems
+Hamburger resturant menu, function that add the items
 
 ![page](https://user-images.githubusercontent.com/102150516/207802575-3b46ac11-d5e8-42fb-9023-8e9bb61cb90c.png)
 
