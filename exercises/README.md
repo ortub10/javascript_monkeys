@@ -40,4 +40,11 @@ Create multiplication table
 ![page](https://user-images.githubusercontent.com/102150516/207814768-a2ef781f-3443-4d21-9703-b06389b0a16c.png)
 
 -------------------------------------------------------------------------------------
+### exercise 7:
+
+Two buttons, one to enlarge the number up to 4, after 4 return to 0, the other to reduce it up to 0, after 0 return to 4, each number gets a different color
+
+![page](https://user-images.githubusercontent.com/102150516/207921579-91c6ca80-d18c-4292-b705-317c87090a22.png)
+
+-------------------------------------------------------------------------------------
 
