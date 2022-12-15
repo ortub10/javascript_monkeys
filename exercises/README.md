@@ -26,3 +26,10 @@ Hamburger resturant menu, function that add the items
 ![page](https://user-images.githubusercontent.com/102150516/207802575-3b46ac11-d5e8-42fb-9023-8e9bb61cb90c.png)
 
 -------------------------------------------------------------------------------------
+### exercise 5:
+
+By for loop the function creates 5 images when the first image is 100px and each image is enlarged at 50px 
+
+![page](https://user-images.githubusercontent.com/102150516/207807390-94072b66-e624-48b9-bda6-61f7afa928df.png)
+
+-------------------------------------------------------------------------------------
