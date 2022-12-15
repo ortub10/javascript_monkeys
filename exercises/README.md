@@ -33,3 +33,11 @@ By for loop the function creates 5 images when the first image is 100px and each
 ![page](https://user-images.githubusercontent.com/102150516/207807390-94072b66-e624-48b9-bda6-61f7afa928df.png)
 
 -------------------------------------------------------------------------------------
+### exercise 6:
+
+Create multiplication table 
+
+![page](https://user-images.githubusercontent.com/102150516/207814768-a2ef781f-3443-4d21-9703-b06389b0a16c.png)
+
+-------------------------------------------------------------------------------------
+
