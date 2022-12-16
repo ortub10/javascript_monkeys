@@ -55,4 +55,14 @@ Creating number of buttons according to number of items in array colors, each bu
 ![page](https://user-images.githubusercontent.com/102150516/208034661-73fce7e1-1352-404c-b0c7-aa886990a17b.png)
 
 -------------------------------------------------------------------------------------
+### exercise 9:
+
+Like exercise 8 but the creating with "createElement" and each button has "click" event  that turn the button to white
+
+![page](https://user-images.githubusercontent.com/102150516/208038611-9939e492-c2b5-4606-a011-cfe77851775c.png)
+
+-------------------------------------------------------------------------------------
+
+
+
 
