@@ -48,3 +48,11 @@ Two buttons, one to enlarge the number up to 4, after 4 return to 0, the other t
 
 -------------------------------------------------------------------------------------
 
+### exercise 8:
+
+Creating number of buttons according to number of items in array colors, each button gets the name and the background of the color
+
+![page](https://user-images.githubusercontent.com/102150516/208034661-73fce7e1-1352-404c-b0c7-aa886990a17b.png)
+
+-------------------------------------------------------------------------------------
+
