@@ -62,6 +62,13 @@ Like exercise 8 but the creating with "createElement" and each button has "click
 ![page](https://user-images.githubusercontent.com/102150516/208038611-9939e492-c2b5-4606-a011-cfe77851775c.png)
 
 -------------------------------------------------------------------------------------
+### exercise 10:
+
+Creating a form and preventing it from being sent
+
+![page](https://user-images.githubusercontent.com/102150516/208253000-b03274c3-38cb-43d0-977a-bde36120d1ae.png)
+
+-------------------------------------------------------------------------------------
 
 
 
