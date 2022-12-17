@@ -76,7 +76,13 @@ Checking the correctness of a form filled out by a user
 ![page](https://user-images.githubusercontent.com/102150516/208255463-8ec21711-9b36-4798-9566-c4d88d4f2a26.png)
 
 -------------------------------------------------------------------------------------
+### exercise 12-13:
 
+Dice game, there is 5 coins, each roll cost 1 coin, if the dice shows 5 or 6 you get 2 coins
+
+![page](https://user-images.githubusercontent.com/102150516/208263377-0009b82d-2dbf-4ff6-a4f7-1f9b612a7ada.png)
+
+-------------------------------------------------------------------------------------
 
 
 
