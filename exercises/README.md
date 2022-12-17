@@ -69,6 +69,13 @@ Creating a form and preventing it from being sent
 ![page](https://user-images.githubusercontent.com/102150516/208253000-b03274c3-38cb-43d0-977a-bde36120d1ae.png)
 
 -------------------------------------------------------------------------------------
+### exercise 11:
+
+Checking the correctness of a form filled out by a user
+
+![page](https://user-images.githubusercontent.com/102150516/208255463-8ec21711-9b36-4798-9566-c4d88d4f2a26.png)
+
+-------------------------------------------------------------------------------------
 
 
 
