@@ -90,6 +90,13 @@ Weight tracking
 ![page](https://user-images.githubusercontent.com/102150516/208289133-23f74790-7e50-4144-b6ca-b5b993cf0212.png)
 
 -------------------------------------------------------------------------------------
+### exercise 15:
+
+Traffic lights
+
+![page](https://user-images.githubusercontent.com/102150516/208290564-8a644fa1-de71-4334-a23b-3577c3f24675.png)
+
+-------------------------------------------------------------------------------------
 
 
 
