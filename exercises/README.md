@@ -119,6 +119,13 @@ and the image change too. when the mouse leave the button the background return 
 ![page](https://user-images.githubusercontent.com/102150516/208314563-06506f04-971d-4ce8-9604-d0010969ec45.png)
 
 -------------------------------------------------------------------------------------
+### exercise 20:
+
+Taking a name from the URL of image, without hyphens and suffixes
+
+![page](https://user-images.githubusercontent.com/102150516/208316141-db5d273d-34da-42d2-8607-459e07d4bd01.png)
+
+-------------------------------------------------------------------------------------
 
 
 
