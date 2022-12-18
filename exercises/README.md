@@ -97,6 +97,13 @@ Traffic lights, after pressing on button "start" the header changes colors every
 ![page](https://user-images.githubusercontent.com/102150516/208290564-8a644fa1-de71-4334-a23b-3577c3f24675.png)
 
 -------------------------------------------------------------------------------------
+### exercise 16-17:
+
+Timer with setInterval
+
+![page](https://user-images.githubusercontent.com/102150516/208294937-a6f1e57f-9ebd-4000-be45-f74db62281d6.png)
+
+-------------------------------------------------------------------------------------
 
 
 
