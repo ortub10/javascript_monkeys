@@ -92,7 +92,7 @@ Weight tracking
 -------------------------------------------------------------------------------------
 ### exercise 15:
 
-Traffic lights
+Traffic lights, after pressing on button "start" the header changes colors every second
 
 ![page](https://user-images.githubusercontent.com/102150516/208290564-8a644fa1-de71-4334-a23b-3577c3f24675.png)
 
