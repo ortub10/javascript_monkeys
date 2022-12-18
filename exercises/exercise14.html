@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+      crossorigin="anonymous"
+    />
+    <script defer src="js/exercise14.js"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Enter kg and date of weight</h2>
+      <form id="id_form" class="col-lg-6 p-3 shadow">
+        <label>Date:</label>
+        <input id="id_date_input" type="date" class="form-control" />
+        <label>Kg:</label>
+        <input id="id_kg_input" type="text" class="form-control" />
+        <button class="btn btn-info mt-3">Save</button>
+      </form>
+
+      <h3>Last time info :</h3>
+      <p>Date: <span id="id_date"></span></p>
+      <p>Kg: <span id="id_kg"></span></p>
+    </div>
+  </body>
+</html>

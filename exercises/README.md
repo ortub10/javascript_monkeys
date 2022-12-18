@@ -83,6 +83,13 @@ Dice game, there is 5 coins, each roll cost 1 coin, if the dice shows 5 or 6 you
 ![page](https://user-images.githubusercontent.com/102150516/208263377-0009b82d-2dbf-4ff6-a4f7-1f9b612a7ada.png)
 
 -------------------------------------------------------------------------------------
+### exercise 14:
+
+Weight tracking
+
+![page](https://user-images.githubusercontent.com/102150516/208289133-23f74790-7e50-4144-b6ca-b5b993cf0212.png)
+
+-------------------------------------------------------------------------------------
 
 
 
