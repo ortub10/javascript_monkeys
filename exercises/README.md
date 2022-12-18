@@ -99,7 +99,7 @@ Traffic lights, after pressing on button "start" the header changes colors every
 -------------------------------------------------------------------------------------
 ### exercise 16-17:
 
-Timer with setInterval
+Timer with setInterval, [minutes : seconds : milideconds]
 
 ![page](https://user-images.githubusercontent.com/102150516/208294937-a6f1e57f-9ebd-4000-be45-f74db62281d6.png)
 
