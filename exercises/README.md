@@ -104,6 +104,13 @@ Timer with setInterval, [minutes : seconds : milideconds]
 ![page](https://user-images.githubusercontent.com/102150516/208294937-a6f1e57f-9ebd-4000-be45-f74db62281d6.png)
 
 -------------------------------------------------------------------------------------
+### exercise 18:
+
+List of tasks
+
+![page](https://user-images.githubusercontent.com/102150516/208297425-5823dbb0-5430-4f5f-96c1-56bebcd476da.png)
+
+-------------------------------------------------------------------------------------
 
 
 
